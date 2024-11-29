@@ -1,4 +1,4 @@
-/* General Reset and Box Model */
+ /* General Reset and Box Model */
 * {
     margin: 0;
     padding: 0;
@@ -77,7 +77,7 @@ header .navigation li a:hover {
 
 /* Banner Section */
 .banner {
-    background: url('img/bg.jpg') no-repeat center center/cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     text-align: center;
     padding: 100px 0;
     color: #fff;
@@ -145,7 +145,7 @@ color: #000000;
 /* Menu Section */
 .menu {
     padding: 50px 0;
-    background: url( img/bg2.jpg); /* Light background for the section */
+    background: url( bg2.jpg); /* Light background for the section */
 }
 
 .menu .title {
@@ -282,7 +282,7 @@ color: #000000;
 /* Testimonials Section */
 .testimonials {
     padding: 50px 100px;
-    background:url(img/bg.jpg);
+    background:url(bg.jpg);
 }
 
 .testimonials .title {
@@ -329,7 +329,7 @@ color: #000000;
 
 /* Contact Section */
 .contact {
-    background: url(img/bg3.jpg) no-repeat center center/cover;
+    background: url(bg3.jpg) no-repeat center center/cover;
     text-align: center;
     padding: 50px 0;
     color: #000000;
